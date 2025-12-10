@@ -1,6 +1,6 @@
 ## Introducing Myself 👋🌱👩‍💻⛰️📊
 
-Hello, I'm Ava! An aspiring environmental data scientist passionate about connecting ecology, climate, and data.
+Hello, I'm Ava! An aspiring data scientist passionate about connecting data, ecology, and climate.
 
 I recently graduated from the University of Oregon with dual B.S. degrees in Environmental Science and Data Science. I enjoy fieldwork and sensor deployments as much as cleaning datasets, building models, and packaging results into accessible tools (Plotly Dash, RShiny, dashboards, web interfaces). I’m especially interested in applying reproducible, open-science approaches to problems in climate resilience, marine science, and sustainability.
 
